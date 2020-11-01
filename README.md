@@ -1,4 +1,5 @@
-## Script to handle LEDs in linux, might have to change it a little if it doesn't work.
+## Script to handle LEDs in linux
+Note: Might have to change it a little if it doesn't work.
 ### Usage
 #### Help
 ```
